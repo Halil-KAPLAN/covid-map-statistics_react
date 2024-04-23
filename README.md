@@ -8,6 +8,8 @@ Explore the live demo: https://covidmap-b4e42c.netlify.app/
 
 **Client:** React(Vite), Vitest, Redux Toolkit, Redux Saga, React Simple Maps, Tailwind CSS
 
+## Screenshots
+
 ![alt text](public/screenshots/ss1.png?raw=true)
 ![alt text](public/screenshots/ss2.png?raw=true)
 ![alt text](public/screenshots/ss3.png?raw=true)
