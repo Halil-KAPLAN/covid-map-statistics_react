@@ -2,7 +2,7 @@
 
 View Covid-19 statistics for the country of your choice on the world map. Click on any country on the map to display a comprehensive set of data including **Last Update Date**, **Confirmed Cases**, **Active Cases**, **Deaths**, and **Fatality Rate**.
 
-Explore the live demo: https://covidmap-b4e42c.netlify.app/
+Review live demo: https://covidmap-b4e42c.netlify.app/
 
 ## Tech Stack
 
